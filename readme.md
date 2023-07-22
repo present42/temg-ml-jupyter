@@ -1,6 +1,9 @@
 # You can access the notebook on colab
 Click [here](https://colab.research.google.com/drive/1O5c_yl0Pf4b2zMeWAZ3IWJKh2o0_QRSW?usp=sharing) to access the notebook on colab.
 
+# You can access the dashboard website
+Click [here](https://present42.github.io/temg-ml-dashboard/)
+
 ## Python Version & Package Version
  - scikit-learn 1.3.0
  - numpy 1.22.4
